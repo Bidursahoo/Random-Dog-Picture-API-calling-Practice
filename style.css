@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(175, 255, 255);
+}
+.upper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    background-color: antiquewhite;
+    border: 0;
+    padding: 3px 3px 3px 3px;
+}
+#dogImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    min-width: 50%;
+}
